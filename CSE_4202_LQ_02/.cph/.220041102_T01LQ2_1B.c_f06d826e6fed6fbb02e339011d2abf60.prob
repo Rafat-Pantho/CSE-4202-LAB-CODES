@@ -1,0 +1,1 @@
+{"name":"Local: 220041102_T01LQ2_1B","url":"d:\\IUT accademic\\CSE_4202_LQ_02\\220041102_T01LQ2_1B.c","tests":[{"id":1713245872444,"input":"11\n9 1 3 5 5 -1","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\IUT accademic\\CSE_4202_LQ_02\\220041102_T01LQ2_1B.c","group":"local","local":true}

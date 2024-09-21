@@ -1,0 +1,1 @@
+{"name":"Local: gpt_code","url":"d:\\IUT accademic\\CSE_4202_lab5\\gpt_code.c","tests":[{"id":1710844490357,"input":"Hello","output":"210676686969"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\IUT accademic\\CSE_4202_lab5\\gpt_code.c","group":"local","local":true}
